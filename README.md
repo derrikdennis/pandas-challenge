@@ -80,7 +80,7 @@ My final report included the following information in tabluar form:
   - < \$600
   - $600 - $624
   - $625 - $649
-  - > = \$650
+  - > \$650
 - The table had the following information
   - Average Math Score
   - Average Reading Score
@@ -103,7 +103,14 @@ My final report included the following information in tabluar form:
 
 ### Scores by School Type
 
-- I created a table
+- I created a table that looked at school performane by type of school - charter or public. The table hd the following information:
+  - Average Math Score
+  - Average Reading Score
+  - % Passing Math
+  - % Passing Reading
+  - Overall Passing Rate
+
+# Findings
 
 Here are my two observatable trends:
 
