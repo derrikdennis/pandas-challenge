@@ -1,6 +1,8 @@
 # My Analysis of PyCity Schools - Pandas Challenge
 
-For the Pandas Challenge, I chose to work on the PyCitySchools assignment.
+For a better understanding of how Python Pandas works, we were given the option of choosing between two different categories.
+I chose Academy of Py. In this assignment, I was given the role of Chief Data Scientist for PyCity Schools and charged with the task of analyzing the district-wide standardized test scores.
+This analysis would be used to better un
 
 Here are my two observatable trends:
 
