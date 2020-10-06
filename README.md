@@ -1,8 +1,109 @@
 # My Analysis of PyCity Schools - Pandas Challenge
 
+If you would like to see my findings, please scroll down to the findings section.
+
+## Background
+
 For a better understanding of how Python Pandas works, we were given the option of choosing between two different categories.
 I chose Academy of Py. In this assignment, I was given the role of Chief Data Scientist for PyCity Schools and charged with the task of analyzing the district-wide standardized test scores.
-This analysis would be used to better un
+This analysis would be used to make strategic decisions regarding future school budgets and priorities.
+
+## Reporting Steps
+
+My final report included the following information in tabluar form:
+
+### District Summary
+
+- I created a high level snapshot of the district's key metrics including:
+  - Total Schools
+  - Total Students
+  - Total Budget
+  - Average Math Score
+  - Average Reading Score
+  - % Students - Passing Math
+  - % Students - Passing Reading
+  - Overall Passing Rate of Students
+
+### School Summary
+
+- I created a table that summarizes key metrics about each school, including:
+  - School Name
+  - School Type
+  - Total Students
+  - Total School Budget
+  - Per Student Budget
+  - Average Math Score
+  - Average Rading Score
+  - % Students - Passing Math
+  - % Students - Passing Reading
+  - Overall Passing Rate
+
+### Top Five Performing Schools (by Overall Passing Rate)
+
+- I created a table that highlighted the top five performing schools based on Overall Passing rate. Specficially, I included:
+  - School Name
+  - School Type
+  - Total Students
+  - Total School Budget
+  - Per Student Budget
+  - Average Math Score
+  - Average Reading Score
+  - % Students - Passing Math
+  - % Students - Passing Reading
+  - Overall Passing Rate
+
+### Bottom Five Performing Schools (by Overall Passing Rate)
+
+- I created a table that highlighted the bottom five performing schools based on Overall Passing rate. Specficially, I included:
+  - School Name
+  - School Type
+  - Total Students
+  - Total School Budget
+  - Per Student Budget
+  - Average Math Score
+  - Average Reading Score
+  - % Students - Passing Math
+  - % Students - Passing Reading
+  - Overall Passing Rate
+
+### Math Scores by Grade
+
+- I created a table that lists the average Math Score for the students of each grade level of the school.
+
+### Reading Scores by Grade
+
+- I created a table that lists the average Reading Score for the students of each grade level of the school.
+
+### Scores by School Spending
+
+- I created a table that looked at school performances based on average Spending Ranges. These spending ranges per student were:
+  - < \$600
+  - $600 - $624
+  - $625 - $649
+  - > = \$650
+- The table had the following information
+  - Average Math Score
+  - Average Reading Score
+  - % Passing Math
+  - % Passing Reading
+  - Overall Passing Rate
+
+### Scores by School Size
+
+- I created a table that looked at school performances based on school size. The sizes I chose were:
+  - Small schools: < 1800 students
+  - Medium schools: 1800-3600 students
+  - Large schools: > 3600 students
+- The table had the following information
+  - Average Math Score
+  - Average Reading Score
+  - % Passing Math
+  - % Passing Reading
+  - Overall Passing Rate
+
+### Scores by School Type
+
+- I created a table
 
 Here are my two observatable trends:
 
