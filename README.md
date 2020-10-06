@@ -2,6 +2,23 @@
 
 If you would like to see my findings, please scroll down to the findings section.
 
+## Table of Contents
+
+- [My Analysis of PyCity Schools - Pandas Challenge](#my-analysis-of-pycity-schools---pandas-challenge)
+  - [Table of Contents](#table-of-contents)
+  - [Background](#background)
+  - [Reporting Steps](#reporting-steps)
+    - [District Summary](#district-summary)
+    - [School Summary](#school-summary)
+    - [Top Five Performing Schools (by Overall Passing Rate)](#top-five-performing-schools-by-overall-passing-rate)
+    - [Bottom Five Performing Schools (by Overall Passing Rate)](#bottom-five-performing-schools-by-overall-passing-rate)
+    - [Math Scores by Grade](#math-scores-by-grade)
+    - [Reading Scores by Grade](#reading-scores-by-grade)
+    - [Scores by School Spending](#scores-by-school-spending)
+    - [Scores by School Size](#scores-by-school-size)
+    - [Scores by School Type](#scores-by-school-type)
+  - [Findings](#findings)
+
 ## Background
 
 For a better understanding of how Python Pandas works, we were given the option of choosing between two different categories.
@@ -110,7 +127,7 @@ My final report included the following information in tabluar form:
   - % Passing Reading
   - Overall Passing Rate
 
-# Findings
+## Findings
 
 Here are my two observatable trends:
 
