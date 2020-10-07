@@ -2,9 +2,8 @@
 
 If you would like to see my findings, please scroll down to the findings section.
 
-## Table of Contents
+## Table of Contents <!-- omit in toc -->
 
-- [Table of Contents](#table-of-contents) <!-- omit in toc -->
 - [Background](#background)
 - [Reporting Steps](#reporting-steps)
   - [District Summary](#district-summary)
