@@ -1,23 +1,22 @@
-# My Analysis of PyCity Schools - Pandas Challenge
+# My Analysis of PyCity Schools - Pandas Challenge <!-- omit in toc -->
 
 If you would like to see my findings, please scroll down to the findings section.
 
 ## Table of Contents
 
-- [My Analysis of PyCity Schools - Pandas Challenge](#my-analysis-of-pycity-schools---pandas-challenge)
-  - [Table of Contents](#table-of-contents)
-  - [Background](#background)
-  - [Reporting Steps](#reporting-steps)
-    - [District Summary](#district-summary)
-    - [School Summary](#school-summary)
-    - [Top Five Performing Schools (by Overall Passing Rate)](#top-five-performing-schools-by-overall-passing-rate)
-    - [Bottom Five Performing Schools (by Overall Passing Rate)](#bottom-five-performing-schools-by-overall-passing-rate)
-    - [Math Scores by Grade](#math-scores-by-grade)
-    - [Reading Scores by Grade](#reading-scores-by-grade)
-    - [Scores by School Spending](#scores-by-school-spending)
-    - [Scores by School Size](#scores-by-school-size)
-    - [Scores by School Type](#scores-by-school-type)
-  - [Findings](#findings)
+- [Table of Contents](#table-of-contents)
+- [Background](#background)
+- [Reporting Steps](#reporting-steps)
+  - [District Summary](#district-summary)
+  - [School Summary](#school-summary)
+  - [Top Five Performing Schools (by Overall Passing Rate)](#top-five-performing-schools-by-overall-passing-rate)
+  - [Bottom Five Performing Schools (by Overall Passing Rate)](#bottom-five-performing-schools-by-overall-passing-rate)
+  - [Math Scores by Grade](#math-scores-by-grade)
+  - [Reading Scores by Grade](#reading-scores-by-grade)
+  - [Scores by School Spending](#scores-by-school-spending)
+  - [Scores by School Size](#scores-by-school-size)
+  - [Scores by School Type](#scores-by-school-type)
+- [Findings](#findings)
 
 ## Background
 
